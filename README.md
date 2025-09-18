@@ -94,37 +94,42 @@ From the 17 landmarks, the following features were derived:
 
 ---
 
-## 📂 Repository Structure
-IRS-Sleep-Position-Prediction/
+## 📁 Repository Structure
+
+```
+📂 Project Root
+├── 📁 Codes/
+│   ├── 📓 Pose Classification - 2.ipynb
+│   ├── 📓 Pose Classification - 3.ipynb
+│   ├── 📓 Pose Recognition Test - 1.ipynb
+│   ├── 📓 Pose Recognition Test - 2.ipynb
+│   └── 📓 Pose Recognition Test - 3.ipynb
 │
-├── Codes/
-│ ├── Pose Classification - 2.ipynb
-│ ├── Pose Classification - 3.ipynb
-│ ├── Pose Recognition Test - 1.ipynb
-│ ├── Pose Recognition Test - 2.ipynb
-│ └── Pose Recognition Test - 3.ipynb
+├── 📁 Data/
 │
-├── Outputs/
-│ └── Final/
-│ ├── Dataset_Plots/
-│ │ ├── Bar Graph of Undetected Landmarks.png
-│ │ ├── Box Plot - X Coordinate.png
-│ │ ├── Box Plot - Y Coordinate.png
-│ │ ├── Pose Recognition Sample.png
-│ │ └── Scatter Plot of Landmarks.png
-│ ├── Fusion_Model_Plots/
-│ │ ├── Accuracy.png
-│ │ ├── Clustered Classification Metrics.png
-│ │ ├── Confusion matrix.png
-│ │ ├── PR Bubble.png
-│ │ └── PR Scatter.png
-│ ├── Landmark_Model_Plots/
-│ │ ├── KNN_1.png
-│ │ ├── MLP_1.png
-│ │ ├── random forest rv.png
-│ │ ├── Random_Forest.png
-│ │ ├── svm_1.png
-│ │ └── XGBoost.png
-│ └── architecture.png
-│
-└── README.md
+└── 📁 Outputs/
+    └── 📁 Final/
+        ├── 📁 Dataset_Plots/
+        │   ├── 🖼️ Bar Graph of Undetected Landmarks.png
+        │   ├── 🖼️ Box Plot - X Coordinate.png
+        │   ├── 🖼️ Box Plot - Y Coordinate.png
+        │   ├── 🖼️ Pose Recognition Sample.png
+        │   └── 🖼️ Scatter Plot of Landmarks.png
+        │
+        ├── 📁 Fusion_Model_Plots/
+        │   ├── 🖼️ Accuracy.png
+        │   ├── 🖼️ Clustered Classification Metrics.png
+        │   ├── 🖼️ Confusion matrix.png
+        │   ├── 🖼️ PR Bubble.png
+        │   └── 🖼️ PR Scatter.png
+        │
+        ├── 📁 Landmark_Model_Plots/
+        │   ├── 🖼️ KNN_1.png
+        │   ├── 🖼️ MLP_1.png
+        │   ├── 🖼️ random forest rv.png
+        │   ├── 🖼️ Random_Forest.png
+        │   ├── 🖼️ svm_1.png
+        │   └── 🖼️ XGBoost.png
+        │
+        └── 🖼️ architecture.png
+```
