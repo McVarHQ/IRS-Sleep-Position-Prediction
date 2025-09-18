@@ -108,28 +108,27 @@ From the 17 landmarks, the following features were derived:
 ├── 📁 Data/
 │
 └── 📁 Outputs/
-    └── 📁 Final/
-        ├── 📁 Dataset_Plots/
-        │   ├── 🖼️ Bar Graph of Undetected Landmarks.png
-        │   ├── 🖼️ Box Plot - X Coordinate.png
-        │   ├── 🖼️ Box Plot - Y Coordinate.png
-        │   ├── 🖼️ Pose Recognition Sample.png
-        │   └── 🖼️ Scatter Plot of Landmarks.png
-        │
-        ├── 📁 Fusion_Model_Plots/
-        │   ├── 🖼️ Accuracy.png
-        │   ├── 🖼️ Clustered Classification Metrics.png
-        │   ├── 🖼️ Confusion matrix.png
-        │   ├── 🖼️ PR Bubble.png
-        │   └── 🖼️ PR Scatter.png
-        │
-        ├── 📁 Landmark_Model_Plots/
-        │   ├── 🖼️ KNN_1.png
-        │   ├── 🖼️ MLP_1.png
-        │   ├── 🖼️ random forest rv.png
-        │   ├── 🖼️ Random_Forest.png
-        │   ├── 🖼️ svm_1.png
-        │   └── 🖼️ XGBoost.png
-        │
-        └── 🖼️ architecture.png
+    ├── 📁 Dataset_Plots/
+    │   ├── 🖼️ Bar Graph of Undetected Landmarks.png
+    │   ├── 🖼️ Box Plot - X Coordinate.png
+    │   ├── 🖼️ Box Plot - Y Coordinate.png
+    │   ├── 🖼️ Pose Recognition Sample.png
+    │   └── 🖼️ Scatter Plot of Landmarks.png
+    │
+    ├── 📁 Fusion_Model_Plots/
+    │   ├── 🖼️ Accuracy.png
+    │   ├── 🖼️ Clustered Classification Metrics.png
+    │   ├── 🖼️ Confusion matrix.png
+    │   ├── 🖼️ PR Bubble.png
+    │   └── 🖼️ PR Scatter.png
+    │
+    ├── 📁 Landmark_Model_Plots/
+    │   ├── 🖼️ KNN_1.png
+    │   ├── 🖼️ MLP_1.png
+    │   ├── 🖼️ random forest rv.png
+    │   ├── 🖼️ Random_Forest.png
+    │   ├── 🖼️ svm_1.png
+    │   └── 🖼️ XGBoost.png
+    │
+    └── 🖼️ architecture.png
 ```
