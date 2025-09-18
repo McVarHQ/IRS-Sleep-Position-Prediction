@@ -1,7 +1,7 @@
 # IRS-Sleep-Position-Prediction: A Non-Intrusive Stress Prediction System using Sleep Position Analysis and Infrared Imaging
 
 <p align="center">
-  <img src="./Outputs/Final/architecture.png" alt="IRS-Sleep-Position-Prediction Architecture" height="500">
+  <img src="./architecture.png" alt="IRS-Sleep-Position-Prediction Architecture" height="500">
   <br>
   <span style="font-size: 14px; color: gray;"><b>System Architecture</b></span>
 </p>
@@ -44,7 +44,7 @@ This **fusion-driven approach** ensures accurate recognition of sleep postures a
 - Missing points imputed using **Euclidean similarity** or **mean replacement**.
 
 <p align="center">
-  <img src="./Outputs/Final/Dataset_Plots/Pose Recognition Sample.png" alt="Sample IRS Landmark Detection" height="300">
+  <img src="./Outputs/Dataset_Plots/Pose Recognition Sample.png" alt="Sample IRS Landmark Detection" height="300">
   <br>
   <span style="font-size: 14px; color: gray;"><b>Sample IRS Landmark Extraction</b></span>
 </p>
@@ -60,7 +60,7 @@ From the 17 landmarks, the following features were derived:
 - **Trigonometric Features**: sine/cosine transformations of angular metrics.
 
 <p align="center">
-  <img src="./Outputs/Final/Dataset_Plots/Scatter Plot of Landmarks.png" alt="Scatter Plot of Landmark Features" height="300">
+  <img src="./Outputs/Dataset_Plots/Scatter Plot of Landmarks.png" alt="Scatter Plot of Landmark Features" height="300">
   <br>
   <span style="font-size: 14px; color: gray;"><b>Scatter Plot of Landmarks</b></span>
 </p>
@@ -87,7 +87,7 @@ From the 17 landmarks, the following features were derived:
 - Stress estimation validated using regression error metrics.  
 
 <p align="center">
-  <img src="./Outputs/Final/Fusion_Model_Plots/Confusion matrix.png" alt="Confusion Matrix" height="300">
+  <img src="./Outputs/Fusion_Model_Plots/Confusion matrix.png" alt="Confusion Matrix" height="300">
   <br>
   <span style="font-size: 14px; color: gray;"><b>Final Confusion Matrix</b></span>
 </p>
